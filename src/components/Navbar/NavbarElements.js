@@ -7,3 +7,7 @@ display: flex;
 justify-content: center;
 font-weight: 700;
 `;
+
+export const NavLink = styled(Link)`
+color: #fff;
+`
