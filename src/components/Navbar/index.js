@@ -4,7 +4,9 @@ import {Nav} from './NavbarElements';
 const Navbar = () => {
   return (
     <>
-        <Nav>Nav</Nav>
+        <Nav>
+          <NavLink to='/'>Pizza</NavLink>
+        </Nav>
     </>
   );
 };
