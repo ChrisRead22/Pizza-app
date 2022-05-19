@@ -25,5 +25,14 @@ cursor: pointer;
 `;
 
 export const NavIcon = styled.div`
+display: block;
+position: absolute;
+top: 0;
+right: 0;
+cursor: pointer;
+color: #fff;
 
+p {
+    
+}
 `
