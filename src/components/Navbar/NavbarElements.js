@@ -33,6 +33,11 @@ cursor: pointer;
 color: #fff;
 
 p {
-    
+    transform: translate(-175%, 100%);
+    font-weight: bold;
 }
+`
+
+export const Bars = styled(FaPizzaSlice)`
+
 `
