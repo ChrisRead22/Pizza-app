@@ -23,3 +23,7 @@ cursor: pointer;
     left: 25px;
 }
 `;
+
+export const NavIcon = styled.div`
+
+`
