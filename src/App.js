@@ -9,6 +9,7 @@ function App() {
     <Router>
       <GlobalStyle />
       <Navbar />
+      <Hero />
     </Router>
   );
 }
