@@ -9,6 +9,7 @@ const Hero = () => {
     <HeroContent>
       <HeroItems>
         <HeroH1>Greatest Pizza Known to Man</HeroH1>
+        <HeroP>Ready in Minutes</HeroP>
       </HeroItems>
     </HeroContent>
    </HeroContainer>
