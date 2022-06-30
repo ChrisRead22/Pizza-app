@@ -6,6 +6,11 @@ const Hero = () => {
   return (
    <HeroContainer>
     <Navbar />
+    <HeroContent>
+      <HeroItems>
+        <HeroH1>Greatest Pizza Known to Man</HeroH1>
+      </HeroItems>
+    </HeroContent>
    </HeroContainer>
   );
 };
